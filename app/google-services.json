@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "763732233832",
+    "firebase_url": "https://biciqr22.firebaseio.com",
+    "project_id": "biciqr22",
+    "storage_bucket": "biciqr22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763732233832:android:ed164d5364e17856",
+        "android_client_info": {
+          "package_name": "com.andresduque01.uniremington"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763732233832-hai1uoi7defk7nstc0aq9hcl53negplq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andresduque01.uniremington",
+            "certificate_hash": "b975c6771f7297c22324ecdabfabd584370350dd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnyx_qBzMaocFxQIj1WAyTt8vEwbhzwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763732233832-er5ouasosbvm9lp7nku97tn9rjo6o1pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

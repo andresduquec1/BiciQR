@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BiciQR</string>
+    <string name="title_activity_main2">Formulario de registro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Terminos y condiciones</string>
+    <string name="title_activity_formulario">formulario</string>
+    <string name="title_activity_main3">Menú de opciones</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="enfermedades_que_padece">Enfermedades que padece</string>
+    <string name="rh">RH</string>
+    <string name="tipo_de_documento">Tipo de documento</string>
+    <string name="tipo_de_sangre">Tipo de sangre</string>
+    <string name="n_mero_de_documento">Número de documento</string>
+    <string name="nombre_cont_cto">Nombre contácto</string>
+    <string name="tel_fono_contacto">Teléfono contacto</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="direcc_on">Direccíon</string>
+    <string name="eps">EPS</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="nombres">Nombres</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="guardar">Guardar</string>
+    <string name="departamento">Departamento</string>
+    <string name="formulario_de_inscripci_n">Formulario de inscripción</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="title_activity_main4">Actualizar datos</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="title_activity_main6">Generar codigo QR</string>
+    <string name="title_activity_restablecer">Restablecer contraseña</string>
+    <string name="title_activity_configurar">Configurar cuenta</string>
+</resources>
